@@ -1,5 +1,4 @@
 # ProcessViewNet
-#### C#
-#### Requires Windows 8.1 / 2012 R2 or Higher, .NET Framework 4.5, VS 2019 CRT
-
-Repo hosts public releases only and no actual source code.
+#### Requires Windows 7 / 2008 R2 or Higher and .NET Framework 4.5+
+#### Utility that is similar to Windows Task Manager or Sysinternals Process Explorer but without any training wheels or guard rails.
+#### Repository hosts public releases only and no actual source code.
