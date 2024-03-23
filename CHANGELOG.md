@@ -1,3 +1,11 @@
+## v10.5
+Improvements:
+- Encryption Tools now includes a standalone base64 encoding and decoding feature.
+- Encryption Tools can now be opened via the Ctrl + Alt + E hotkey.
+- Ctrl + Alt + T can now be used to open a preset encrypted text file. The file that this hotkey will open can be set from the encrypted text editor with the file in question open.
+- HotKey registration status has been moved from the title bar to the status bar.
+- HotKeys can now be disabled either in app or through the settings.json file. In app changes must be saved via Ctrl + S.
+
 ## v10.4
 Improvements:
 - Updater will now check to see what the latest compatible version is rather than defaulting to the latest tag.
