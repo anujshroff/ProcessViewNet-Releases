@@ -1,3 +1,8 @@
+## v10.6
+Improvements:
+- Encrypted text editor will be hidden from screen sharing. If the Windows API returns false, then the textbox will be hidden.
+- A show button has been added to force the textbox to be visible.
+
 ## v10.5
 Improvements:
 - Encryption Tools now includes a standalone base64 encoding and decoding feature.
