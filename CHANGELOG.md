@@ -1,3 +1,10 @@
+## v10.7
+Improvements:
+- In addition to the normal signature verification during application updates, the Authenticode digital signature will also be verified. Both signatures will need to be successfully verified before the application update will be allowed to proceed. The end user experience will not be any different.
+
+Bug Fixes:
+- HotKeys will be adjusted based on the settings when the settings are reloaded.
+
 ## v10.6
 Improvements:
 - Encrypted text editor will be hidden from screen sharing. If the Windows API returns false, then the textbox will be hidden.
