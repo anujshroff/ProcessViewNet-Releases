@@ -1,3 +1,9 @@
+## v10.8
+Improvements:
+- Input and output text boxes in Encryption Tools will accept newline and tab as inputs
+- Disk Usage shows a total file count per folder
+- Print Windows will run for the same session
+
 ## v10.7
 Improvements:
 - In addition to the normal signature verification during application updates, the Authenticode digital signature will also be verified. Both signatures will need to be successfully verified before the application update will be allowed to proceed. The end user experience will not be any different.
