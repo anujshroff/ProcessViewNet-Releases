@@ -1,3 +1,7 @@
+## v10.9
+Bug Fixes:
+- In Disk Usage, `.` will reflect the current folder's non-recursive size, file count, and extension file counts.
+
 ## v10.8
 Improvements:
 - Input and output text boxes in Encryption Tools will accept newline and tab as inputs
