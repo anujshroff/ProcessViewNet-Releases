@@ -1,3 +1,10 @@
+## v11.0
+New Features:
+- Regex based filtering of processes
+
+Improvements:
+- Add total file count to title bar in Disk Usage feature
+
 ## v10.9
 Bug Fixes:
 - In Disk Usage, `.` will reflect the current folder's non-recursive size, file count, and extension file counts.
