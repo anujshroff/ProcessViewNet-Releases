@@ -1,3 +1,11 @@
+## v11.1
+Improvements:
+- Base 64 encoding can optionally accept hex encoded input.
+- Base 64 decoding can optionally output hex encoded data.
+
+Bug Fixes:
+- Disk Usage will now skip an inaccessible folder and continue folder size calculation.
+
 ## v11.0
 New Features:
 - Regex based filtering of processes
