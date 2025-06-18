@@ -1,3 +1,9 @@
+## v11.2
+Improvements:
+- LogExceptions will be true by default
+- EncryptedTextEditorFontSize will be 12 by default
+- ListBlockNumericFontFamily will be Consolas by default
+
 ## v11.1
 Improvements:
 - Base 64 encoding can optionally accept hex encoded input.
