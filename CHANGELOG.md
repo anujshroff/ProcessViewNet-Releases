@@ -1,3 +1,7 @@
+## v11.3
+Improvements:
+- Dependency updates
+
 ## v11.2
 Improvements:
 - LogExceptions will be true by default
