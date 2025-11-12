@@ -1,3 +1,7 @@
+## v11.4
+Improvements:
+- Dependency updates
+
 ## v11.3
 Improvements:
 - Dependency updates
