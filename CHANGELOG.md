@@ -1,3 +1,10 @@
+## v11.5
+New Features:
+- Option to prevent idle sleep
+
+Improvements:
+- Dependency updates
+
 ## v11.4
 Improvements:
 - Dependency updates
