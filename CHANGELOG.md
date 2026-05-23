@@ -1,3 +1,8 @@
+## v11.6
+Improvements:
+- Dependency updates
+- Pause process updater while scrolling
+
 ## v11.5
 New Features:
 - Option to prevent idle sleep
